@@ -1,0 +1,38 @@
+.robot{
+    width: 100vw;
+    height: auto;
+    background-image: url("../img/robot-banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.robot-text-container{
+    width: 97.625rem;
+
+}
+.robot-title{
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 4.375rem;
+    color: 090a12;
+}
+.robot-text{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.875rem;
+    color: #4b4b4b;
+}
+.btn-fast-start{
+    display: block;
+    height: 6.25rem;
+    width: 20rem;
+    margin: auto;
+    background-color: #2cab70;
+    border: 1px solid #2cab70;
+    border-radius: 5%;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}

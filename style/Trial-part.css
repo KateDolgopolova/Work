@@ -1,0 +1,30 @@
+.trial-part{
+    width: 43.75rem;
+}
+.header-title{
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    font-size: 7.5em;
+    color: #ffffff;
+    text-align: center;
+}
+.trial-subtitle{
+    font-family: 'Myriad Pro', 'Barlow', sans-serif;
+    font-size: 1.5rem;
+    color: #ababab;
+    text-align: center;
+}
+.btn-try-free{
+    display: block;
+    height: 6.25rem;
+    width: 20rem;
+    margin: auto;
+    background-color: #3928b9;
+    border: 1px solid #3928b9;
+    border-radius: 5%;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}

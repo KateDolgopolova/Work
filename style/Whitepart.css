@@ -1,0 +1,33 @@
+.main-whitepart{
+    margin: auto;
+    background-color: #ffffff;
+    width: 171.875rem;
+}
+.devices-title{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.375rem;
+    color: #090a12;
+}
+.devices-describe{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.875rem;
+    color: #4b4b4b;
+}
+.device-container{
+    width: 78.75rem;
+}
+.devices-images{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.device-text{
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size: 3.125rem;
+    padding-left: 26.3rem;
+
+}

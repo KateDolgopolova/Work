@@ -1,0 +1,12 @@
+.scheme{
+    margin: auto;
+    background-color: #ffffff;
+    width: 171.875rem;
+}
+.scheme-text{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+    font-size: 1.875rem;
+    color: #4b4b4b;
+}

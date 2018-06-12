@@ -1,0 +1,29 @@
+.container-wrapper-header{
+    width: 100vw;
+    height: auto;
+    background-image: url("../img/heade-banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20.78rem;
+}
+.menu-item{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a:visited{
+    color: #ffffff;
+}

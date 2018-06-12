@@ -1,0 +1,19 @@
+.Sign-up{
+    width: 171.875rem;
+    background-color: #f8f9fa;
+}
+.sign-text{
+    margin: auto;
+}
+.sign-up-title{
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 4.375rem;
+    color: #4b4b4b;
+}
+.sign-text{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.875rem;
+    color: #4b4b4b;
+}
